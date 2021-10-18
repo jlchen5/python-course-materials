@@ -5,7 +5,9 @@
 1. Install [anaconda](https://www.anaconda.com/distribution/)
 2. Create a new environment using `conda_env_BPiDD_2019.yml`:
     * Option 1: [Use anaconda navigator to import the environment](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/#importing-an-environment) **untested**
-    * Option 2: Create the environment with the command line: `conda env create -f conda_env_BPiDD_2019.yml`
+    * Option 2: Create the environment with the command line: `conda env create -f environment.yml`
+
+Install on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jesperswillem/python-course-materials/HEAD)
 
 ## Recommended resources
 * [Interactive tutorial at DataCamp (only free parts)](https://www.datacamp.com/courses/intro-to-python-for-data-science)
