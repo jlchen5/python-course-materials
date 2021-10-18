@@ -6,7 +6,7 @@
 2. Create a new environment using `conda_env_BPiDD_2019.yml`:
     * Option 1: [Use anaconda navigator to import the environment](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/#importing-an-environment) **untested**
     * Option 2: Create the environment with the command line: `conda env create -f environment.yml`
-3. Online thanks to Binder. This takes around 10 minutes to get ready, but does not require any kind of setup on your end. Click here to get started: Binder. 
+3. Online using [Binder](https://mybinder.org/). This takes around 10 minutes to get ready, but does not require any kind of setup on your end. Click here to get started: [![Binder](https://mybinder.org/badge_logo.svg)]
 
 ## Recommended resources
 * [Interactive tutorial at DataCamp (only free parts)](https://www.datacamp.com/courses/intro-to-python-for-data-science)
