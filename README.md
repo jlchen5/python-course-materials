@@ -24,9 +24,9 @@
 ## Recommended Python libraries
 
 ### Data visualization
-* [matplotlib](https://matplotlib.org)
-* [seaborn](https://seaborn.pydata.org)
-* [ggplot](http://ggplot.yhathq.com/): similar to R's ggplot
+* [matplotlib](https://matplotlib.org): Comprehensive library for creating static, animated, and interactive visualizations in Python.
+* [seaborn](https://seaborn.pydata.org): High-level interface for drawing attractive and informative statistical graphics.
+* [ggplot](http://ggplot.yhathq.com/): Based on R's ggplot2, uses a powerful declarative grammar for building data visualizations.
 * [plotly](https://plot.ly) and [bokeh](https://bokeh.pydata.org/): interactive plots
 
 ### Statistics
